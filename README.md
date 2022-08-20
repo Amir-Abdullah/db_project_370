@@ -1,1 +1,1 @@
-# db_project_370
+# School database management project
